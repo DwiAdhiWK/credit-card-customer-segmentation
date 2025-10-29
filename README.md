@@ -1,5 +1,5 @@
 # Judul Project
-Credit Card Customer Segmentation'
+Credit Card Customer Segmentation
 
 ## Repository Outline
 - dateset-description.png - deskripsi dataset yang akan digunakan 
